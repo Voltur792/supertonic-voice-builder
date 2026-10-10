@@ -1,0 +1,28 @@
+# Only application source and redistributable notices belong in the repository.
+# Recordings, profiles, models, local builds and developer checks remain local.
+/*
+!/.gitignore
+!/README.md
+!/LICENSE.txt
+!/VoiceBuilder.cs
+!/BuilderFeatures.cs
+!/Downloads.cs
+!/WaveAudio.cs
+!/TabDeck.cs
+!/ModernControls.cs
+!/DropChoice.cs
+!/NumberField.cs
+!/Updates.cs
+!/build-app.ps1
+!/build-engine.ps1
+!/package-app.ps1
+!/engine-changes.patch
+!/model-assets.json
+!/whisper-utf8.manifest
+!/assets/
+/assets/*
+!/assets/voice-builder.png
+!/assets/voice-builder.ico
+!/licenses/
+/licenses/*
+!/licenses/*.txt
